@@ -2,6 +2,7 @@
 
 ## Personal Information
 Location: Berkeley - Bay Area
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 ## Bio
 A senior at UC Berkeley, studying Data Science with minor in Computer Science.
