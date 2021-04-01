@@ -1,7 +1,7 @@
 # Welcome to ellsafiorenza.github.io
 
 ## Personal Information
-Location: Berkeley - Bay Area
+Location: Berkeley - Bay Area \\
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 ## Bio
