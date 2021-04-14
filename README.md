@@ -1,7 +1,7 @@
 # Ellsa Fiorenza's Portfolio
 I am a senior at UC Berkeley majoring in Data Science with minor in Computer Science. Currently, I am doing internship with two companies as a Research and Analyst Intern at Stickearn - a digital advertising company based in Jakarta, Indonesia - and as a Software Engineer Intern at JP Morgan Chase & Co. US. To learn more about my background and qualifications, you can contact me at my <a href="https://www.linkedin.com/in/ellsa-fiorenza/">LinkedIn.</a>
 
-
+To see my porfolio in a web friendly version <a href="#">click here!</a>
 
 ## Data Science Projects
 ### Basketball Analysis (Modelling)
@@ -48,3 +48,22 @@ To estimate the total people who see an advertisement or to know the estimation 
 
 <a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/crowd%20analytics" class="button">See the code here!</a>
 
+### Search
+Using BFS, DFS, A*, heuristic search, this program will look for the best path to collect food efficiently. The code is implemented using pacman games!
+
+<a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/search" class="button">See the code here!</a>
+
+### Multiagent
+Using minimax and alpha-beta pruning, this program will return the best action that resulting in the maximum score. The code is implemented using pacman games!
+
+<a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/multiagent" class="button">See the code here!</a>
+
+### Ghostbuster
+Applying sensor for the pacman to detect food and invisible ghost. Therefore, the pacman will eat food and invisible ghost nearby.
+
+<a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/tracking" class="button">See the code here!</a>
+
+### Reinforcement Learning
+Using Value-Iteration, Q-Learning, and epsilon greedy, this program find the best path from learning each state's reward. The code is implemented using pacman games!
+
+<a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/reinforcement" class="button">See the code here!</a>
