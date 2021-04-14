@@ -1,6 +1,8 @@
 # Ellsa Fiorenza's Portfolio
 I am a senior at UC Berkeley majoring in Data Science with minor in Computer Science. Currently, I am doing internship with two companies as a Research and Analyst Intern at Stickearn - a digital advertising company based in Jakarta, Indonesia - and as a Software Engineer Intern at JP Morgan Chase & Co. US. To learn more about my background and qualifications, you can contact me at my <a href="https://www.linkedin.com/in/ellsa-fiorenza/">LinkedIn.</a>
 
+
+
 ## Data Science Projects
 ### Basketball Analysis (Modelling)
 This project focuses to analyze NBA team performance from the player's statistics and to find out which college produces the best NBA players. In this project we perform the ETL process using pandas to fill in the missing values. To predict the a good player, we build linear regression and random forest models.
@@ -11,6 +13,7 @@ This project focuses to analyze NBA team performance from the player's statistic
 The goal of this project is to see the correlation between religion and contraceptive usage amongs Indonesian women affects the total children they have.  To analyze this relationship, we use A/B testing by mean different of the total number of children where we compare the mean number of children from mother who are Muslim and not. We also create a linear regression to see the correlation of mother's age and the total children in the household. From our analysis, we found  out that Muslim mothers, on average, have more children compared to non Muslim mothers. From the linear regression, as the mother age increases, the number of children increases as well.
 
 <a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/blob/main/contraceptives_final_project.ipynb" class="button">See the python notebook here!</a>
+
 
 
 ## Game Projects
@@ -25,7 +28,17 @@ Ants works very similar as Plant vs. Zombie where the ants fight againts various
 <a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/ants" class="button">See the code here!</a>
 
 
+
 ## Data Structure Projects
+### Enigma
+Building a replica of enigma machine that can decode a series of code.
+
+<a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/enigma" class="button">See the code here!</a>
+
+### Gitlet
+Building a replica of git function, includes commit, add, remove, etc.
+
+<a href="https://github.com/ellsafiorenza/ellsafiorenza.github.io/tree/main/gitlet" class="button">See the code here!</a>
 
 
 
